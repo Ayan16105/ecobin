@@ -124,7 +124,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 For questions or feedback, reach out to us:
 
-- Email: [your-email@example.com](mailto:ayankhan.wrk@gmail.com)
+- Email: [ayankhan.wrk@gmail.com](mailto:ayankhan.wrk@gmail.com)
 - GitHub Issues: [Create an issue](https://github.com/yAyan16105/ecobin/issues)
 
 Let’s make waste management smarter and greener together! 🌱
