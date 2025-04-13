@@ -6,7 +6,7 @@ EcoBin is a smart waste management system designed to make waste collection effi
 
 This repository contains the Minimum Viable Product (MVP) for EcoBin, featuring a user-friendly web interface with community and admin dashboards.
 
-**[Live Demo](https://LIVE_URL_HERE)**
+**[Live Demo](https://ecobin-eight.vercel.app/)**
 
 ---
 
