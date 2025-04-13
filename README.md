@@ -2,7 +2,7 @@
 
 EcoBin is a smart waste management system designed to make waste collection efficient, sustainable, and rewarding. By classifying waste into organic, recyclable, and hazardous categories, users can earn rewards while contributing to a cleaner environment. Our IoT-enabled smart dustbins track fill levels, and a smart routing system optimizes waste collection. EcoBin won *first runner-up* in our first offline hackathon!
 
-> **Note:** This is a **group project** developed by two members — **Harshvardhan Mishra** and **[Your Name]**. Without Harshvardhan's support, this project wouldn't have been possible.
+> **Note:** This is a **group project** developed by two members — **Harshvardhan Mishra** and **Ayan Khan**.
 
 This repository contains the Minimum Viable Product (MVP) for EcoBin, featuring a user-friendly web interface with community and admin dashboards.
 
